@@ -39,7 +39,7 @@ h2 {
 	margin-bottom: 0;
 	color: rgb(226, 214, 160);
 	font-weight: bold;
-	font-size: 130%;
+	font-size: 150%;
 	text-align: start;
 	margin-left: 200px;
 	}
@@ -50,14 +50,14 @@ h2 {
 	margin-bottom: 0;
 	color: rgb(226, 214, 160);
 	font-weight: bold;
-	font-size: 130%;
+	font-size: 150%;
 	text-align: start;
 	margin-left: 70px;	
 }
 .skill {
 	margin-left: 50px;
 	margin-right: 400px;
-	font-size: 120%;
+	font-size: 150%;
 	font-family: Superspace;
 }
 
@@ -121,7 +121,7 @@ abbr {
 	height: 40px;
 }
 .title-header {
-	width: 200px;
+	width: 900px;
 }
 .relative {
   position: relative;
