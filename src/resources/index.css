@@ -200,7 +200,7 @@ footer a:link, footer a:visited {
 	overflow: hidden;
 	}
 .bg-header {
-	background-image: url(../resources/bg.jpeg);
+	background-image: url(./bg.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
