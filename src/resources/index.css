@@ -127,7 +127,8 @@ abbr {
   position: relative;
   text-align: left;
   font: 20px Panther V01;
-  color: #ffc100
+	color: #ffc100;
+	width: 700px;
 }
 .summary {
 	clear: both; 
